@@ -1,0 +1,28 @@
+Current runner version: '2.322.0'
+Operating System
+Runner Image
+Runner Image Provisioner
+GITHUB_TOKEN Permissions
+Secret source: Actions
+Prepare workflow directory
+Prepare all required actions
+Getting action download info
+Download action repository 'actions/deploy-pages@v4' (SHA:d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e)
+Complete job name: deploy
+7s
+Run actions/deploy-pages@v4
+Fetching artifact metadata for "github-pages" in this workflow run
+Found 1 artifact(s)
+Creating Pages deployment with payload:
+{
+	"artifact_id": 2785071710,
+	"pages_build_version": "acffebb980532015c8736eb8132811adc81c2390",
+	"oidc_token": "***"
+}
+Created deployment for acffebb980532015c8736eb8132811adc81c2390, ID: acffebb980532015c8736eb8132811adc81c2390
+Getting Pages deployment status...
+Reported success!
+0s
+Evaluate and set environment url
+Evaluated environment url: https://kiefer-webb.github.io/portfolio/
+Cleaning up orphan processes
